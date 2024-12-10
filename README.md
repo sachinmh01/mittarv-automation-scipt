@@ -9,3 +9,4 @@ This script automates the login and profile update functionalities on the MittAr
   
 3. **Dependencies**: Install required Python libraries:
    pip install selenium
+ 
