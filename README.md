@@ -8,5 +8,6 @@ This script automates the login and profile update functionalities on the MittAr
 2. **Browser Driver**: Download and configure the appropriate browser driver. This script uses GeckoDriver for Firefox.
   
 3. **Dependencies**: Install required Python libraries:
-   pip install selenium
+   pip install selenium, pip install pytest-html
+
  
