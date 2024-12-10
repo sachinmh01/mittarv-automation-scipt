@@ -23,8 +23,8 @@ enter_otp = driver.find_element_by_xpath('/html/body/div/div/div[1]/div/div/div[
 enter_otp.click()
 time.sleep(3)
 
-Sign_in = driver.find_element_by_xpath('//*[@id="t2"]')
-Sign_in.click()
+sign_in = driver.find_element_by_xpath('//*[@id="t2"]')
+sign_in.click()
 
 time.sleep(4)
 
