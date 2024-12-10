@@ -1,6 +1,6 @@
 import time
 from selenium import webdriver
-
+ 
 URL = 'https://app.mittarv.com/'
 driver = webdriver.Firefox(executable_path="driver/geckodriver.exe")
 driver.get(URL)
